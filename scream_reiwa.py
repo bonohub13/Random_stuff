@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 class Reiwa:
     def scream_reiwa(self):
         for i in range(10):
